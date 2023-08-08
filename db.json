@@ -1,0 +1,149 @@
+{
+  "houses": [
+    { "id": 1,
+     "title": "Multi Family House" ,
+     "description":"pride of ownership duplex located in the heart of sultan street, rafah. The duplex features two spacious full floor flats situated on a 2, The property measures approximately 2, 576 square feet of rentable area.",
+     "bathroom" : 2 ,
+     "bedroom":3,
+     "category":"roof",
+     "price":200,
+     "city": "Rafah" ,
+     "image":"https://images.pexels.com/photos/892618/pexels-photo-892618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+     },
+     { "id": 2,
+     "title": "attractive priced apartment" ,
+     "description":"195 square meters with amenities. Northeastern direction, with a Jerusalem stone façade, a fully serviced building Located west of Abu Mazen Roundabout, purchased at $110,000 For sale at $72,000 with the possibility of considering serious buyers",
+     "bathroom" : 2 ,
+     "bedroom":3,
+     "category":"apartment",
+     "price":350,
+     "city": "ALwosta" ,
+     "image":"https://images.pexels.com/photos/275484/pexels-photo-275484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+     },
+     { "id": 3,
+     "title": "house with small land plot" ,
+     "description":"In the middle of the city, there is a house. Behind it, there is a small piece of land with an area of 70 square meters. In front of the house, there is an open space of approximately 100 square meters facing the street. The house consists of 3 bedrooms, a kitchen, a living room, two bathrooms, and a setback for the apartment.",
+     "bathroom" : 3 ,
+     "bedroom":2,
+     "category":"classic",
+     "price":100,
+     "city": "Gaza" ,
+     "image":"https://images.pexels.com/photos/892618/pexels-photo-892618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+     },
+     { "id": 4,
+     "title": "ready-to-occupy apartment" ,
+     "description":"Area of 90 square meters with a stunning view overlooking the eastern and southern sides of the Municipal Park. Located on Bulbul Street. We are looking forward to your visit and would be delighted to assist you.",
+     "bathroom" : 3 ,
+     "bedroom":4,
+     "category":"roof",
+     "price":200,
+     "city": "Khanyunis" ,
+     "image":"https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+     },
+     { "id": 5,
+     "title": "attractive offer price" ,
+     "description":"A three-bedroom house with a living room (and two bathrooms and a kitchen) is available. It overlooks 3 streets, with the street length having 3 branches. The location is in Al-Burayj, Block 12, close to all services. Electricity and water are available. The price is very appealing, and its area is 100 square meters",
+     "bathroom" : 1 ,
+     "bedroom":3,
+     "category":"studio",
+     "price":350,
+     "city": "ALwosta" ,
+     "image":"https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+     },
+     { "id": 6,
+     "title": "a four-story house" ,
+     "description":"A modern residential building comprising 3 bedrooms, a kitchen, a living room, and two bathrooms. Located on the fifth floor, facing east and south, overlooking the main street. The total area is 110 square meters. The price is $38,000 . The building has a 24-hour working elevator. Situated in the western Nasr district, near Ayadia Street",
+     "bathroom" : 3 ,
+     "bedroom":4,
+     "category":"apartment",
+     "price":100,
+      "city": "North",
+     "image":"https://images.pexels.com/photos/221540/pexels-photo-221540.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+     },
+     { "id": 7,
+     "title": "A Slice Of Caribbean Paradise" ,
+     "description":"The tropical beaches of Montego Bay cordially invite you to relax and indulge in pampering in all-encompassing style! The perfect place to unwind on perfectly white sandy beaches, each guest is guaranteed a harmonious and hassle-free vacation filled with gourmet cuisine, expertly poured cocktails, and enough memories to last many times over",
+     "bathroom" : 3 ,
+     "bedroom":4,
+     "category":"roof",
+     "price":250,
+      "city": "Rafah",
+     "image":"https://images.pexels.com/photos/2631746/pexels-photo-2631746.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+     },
+     { "id": 8,
+     "title": "Bali'S Exotic Indonesian Escape" ,
+     "description":"Nestled on the eastern hills of Bali, Jepun Bali Villas is the quintessential Indonesian getaway, with its stunning views of the Indian Ocean, luxury details, and activities galore. Let the soothing sounds of a nearby waterfall lull you to a place of relaxation during a Balinese massage in your private outdoor pavilion.",
+     "bathroom" : 2 ,
+     "bedroom":3,
+     "category":"apartment",
+     "price":350,
+     "city": "North",
+     "image":"https://images.pexels.com/photos/221024/pexels-photo-221024.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+     },
+     { "id": 9,
+     "title": "The Best Of Fairmont" ,
+     "description":"The home has impact windows and doors and eight layers of material on the walls including high grade 'R Matte 3 Plus' insulation, dens glass fire retardant sheathing, steel walls and finished with smooth dry wall interior.",
+     "bathroom" : 3 ,
+     "bedroom":2,
+     "category":"classic",
+     "price":100,
+     "city": "Rafah",
+     "image":"https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+     },
+     { "id": 10,
+     "title": "The Uno Suites Rentals" ,
+     "description":"Are you looking for an affordable residence to call home & escape the big city. If so; allow us to introduce the new modular style homes. Welcome to our Net-Zero Affordable Housing Extended Stay Rental Community. ",
+     "bathroom" : 3 ,
+     "bedroom":4,
+     "category":"roof",
+     "price":150,
+     "city": "ALwosta" ,
+     "image":"https://images.pexels.com/photos/6283963/pexels-photo-6283963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+     },
+     { "id": 11,
+     "title": "Style Net-Zero Family Home" ,
+     "description":"Within a gated community, you will find our Net-Zero properties. This community comes with amenities and offers fifty (50) brand new homes, each set on a one acre plot, leaving plenty of room for expansion.",
+     "bathroom" : 1 ,
+     "bedroom":3,
+     "category":"studio",
+     "price":350,
+     "city": "Khanyunis",
+     "image":"https://images.pexels.com/photos/271743/pexels-photo-271743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+     },
+     { "id": 12,
+     "title": "Steamboat Inn" ,
+     "description":"Steamboat Inn is an 18 key, full-service, upper midscale, independent resort property. The property sits on US Forest Service (USFS) land in the Umpqua National Forest and operates under a USFS special use permit. The hotel has excellent highway visibility and access. ",
+     "bathroom" : 3 ,
+     "bedroom":4,
+     "category":"apartment",
+     "price":400,
+     "city": "Gaza",
+     "image":"https://images.pexels.com/photos/534151/pexels-photo-534151.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+     
+     }
+  ],
+
+
+
+  "users": [
+    { "id": 1, "username": "Saja", "email": "saja2@gmail.com" ,"password": "Saja123", "mobile": "0599169669","image": "https://drive.google.com/drive/folders/1ynAtbL3LSciVwm7hgAbMnJUXfgIlrgNe"}
+  ],
+
+
+
+   "locations ": [
+    { "city": "Gaza" },
+  { "city": "Khanyunis" },
+  { "city": "ALwosta" },
+  { "city": "Rafah" },
+  { "city": "North" }
+  ],
+
+  
+     "categories  ": [
+    { "category": "apartment" },
+  { "category": "classic" },
+  { "category": "studio" },
+  { "category": "roof" }
+  ]
+}
