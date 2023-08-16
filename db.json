@@ -145,5 +145,7 @@
   { "category": "classic" },
   { "category": "studio" },
   { "category": "roof" }
+  ],
+  "favorites":[
   ]
 }
